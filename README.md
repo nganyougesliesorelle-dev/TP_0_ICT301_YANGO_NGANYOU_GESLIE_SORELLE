@@ -1,5 +1,7 @@
 Nom: YANGO NGANYOU
+
 prenom: GESLIE SORELLE
+
 matricuke: 25I2171
 
   RESUME
